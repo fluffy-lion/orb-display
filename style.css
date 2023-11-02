@@ -1,0 +1,13 @@
+* {
+    background: rgb(248, 247, 247);
+    overflow: hidden;
+}
+
+canvas {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-left: -50vmin;
+    width: 100vmin;
+    height: 100vmin;
+}
